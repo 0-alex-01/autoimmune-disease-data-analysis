@@ -134,9 +134,13 @@ Screenshots of the interactive Power BI dashboard will be included below.
 
 ![Global incidence dashboard](images/dashboard_overview.png)
 
-### Additional Visualizations
+### Additional Dashboard Visualizations
 
-![Additional dashboard visualizations](images/sex_differences.png)(images/viruses.png)(images/pesticides.png)
+![Sex Differences](images/sex_differences.png)
+
+![Viral Infections](images/viruses.png)
+
+![Pesticide Analysis](images/pesticides.png)
 
 ## Challenges & Lessons Learned
 
