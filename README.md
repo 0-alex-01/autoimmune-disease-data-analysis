@@ -136,7 +136,7 @@ Screenshots of the interactive Power BI dashboard will be included below.
 
 ### Additional Visualizations
 
-![Additional dashboard visualizations](images/dashboard_details.png)
+![Additional dashboard visualizations](images/sex_differences.png)(images/viruses.png)(images/pesticides.png)
 
 ## Challenges & Lessons Learned
 
