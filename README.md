@@ -135,6 +135,7 @@ Screenshots of the interactive Power BI dashboard will be included below.
 ![Global incidence dashboard](images/dashboard_overview.png)
 
 ### Additional Dashboard Visualizations
+The following screenshots provide a preview of selected dashboards. To explore the complete collection of interactive visualizations, download and open the .pbix file in Microsoft Power BI Desktop.
 
 ![Sex Differences](images/sex_differences.png)
 
